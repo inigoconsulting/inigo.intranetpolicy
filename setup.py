@@ -33,6 +33,7 @@ setup(name='inigo.intranetpolicy',
           'collective.dexteritytextindexer',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
+          'collective.qabank',
           # -*- Extra requirements: -*-
       ],
       extras_require={
